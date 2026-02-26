@@ -1,16 +1,46 @@
-# React + Vite
+# Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautiful, real-time weather application built with React and Tailwind CSS. Get current weather conditions and a 5-day forecast for any city worldwide.
 
-Currently, two official plugins are available:
+<img width="742" height="551" alt="Screenshot 2026-02-26 134717" src="https://github.com/user-attachments/assets/83e5a9bb-d047-4540-a090-4512765b7924" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Features
 
-## React Compiler
+-  **Search any city** - Real-time weather data
+-  **5-day forecast** - Plan your week ahead
+-  **Beautiful UI** - Gradient backgrounds and smooth animations
+-  **Responsive design** - Works on desktop and mobile
+-  **Smart emojis** - Weather-appropriate icons
+-  **Fast & lightweight** - Built with Vite
+-  **No API key needed** - Uses free WeatherAPI.com
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+##  Built With
 
-## Expanding the ESLint configuration
+- React 18
+- Tailwind CSS
+- WeatherAPI.com
+- Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Live Demo
+
+[View Live Demo](https://github.com/Naayart/weather-app.git) 
+
+## Screenshots
+<img width="712" height="444" alt="Screenshot 2026-02-26 134756" src="https://github.com/user-attachments/assets/8ee3b22f-66c9-4ea6-a474-1726f416be37" />
+
+<img width="742" height="551" alt="Screenshot 2026-02-26 134717" src="https://github.com/user-attachments/assets/ee6fe5d9-f2cd-443c-ae3c-5a7f65c5a726" />
+
+
+## How to Use
+
+1. Enter a city name in the search box
+2. Press Enter or click the search button
+3. View current weather conditions
+4. Scroll down for 5-day forecast
+5. Try different cities: London, Tokyo, New York, Dubai
+
+## Installation
+
+1. Clone the repository
+   ```bash
+   (https://github.com/Naayart/weather-app.git)
